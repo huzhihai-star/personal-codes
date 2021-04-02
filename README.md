@@ -1,4 +1,2 @@
 # personal-codes
-it's just for practice.
-import numpy
-import pandas
+it's just for practice
